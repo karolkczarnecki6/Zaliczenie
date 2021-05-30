@@ -1,4 +1,4 @@
 # Zaliczenie
 O to repozytorium na zaliczenie
-"F
-"Firt name and last name: Karol Czarnecki".
+"First name and last name: Karol Czarnecki".
+Index number:42715"
